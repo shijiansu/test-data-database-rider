@@ -1,0 +1,31 @@
+TWEET:
+  - ID: "1"
+    CONTENT: "dbunit rules!"
+    DATE: "[DAY,NOW]"
+    USER_ID: 1
+  - ID: "2"
+    CONTENT: "dbunit rules!"
+    DATE: "[DAY,YESTERDAY]"
+    USER_ID: 1
+  - ID: "3"
+    CONTENT: "dbunit rules!"
+    DATE: "[DAY,TOMORROW]"
+    USER_ID: 1
+  - ID: "4"
+    CONTENT: "dbunit rules!"
+    DATE: "[DAY,YEAR_AFTER]"
+    USER_ID: 1
+  - ID: "5"
+    CONTENT: "dbunit rules!"
+    DATE: "[DAY,YEAR_BEFORE]"
+    USER_ID: 1
+  - ID: "6"
+    CONTENT: "dbunit rules!"
+    DATE: "[HOUR,PLUS_ONE]"
+    USER_ID: 1
+  - ID: "7"
+    CONTENT: "dbunit rules!"
+    USER_ID: 1
+    TIMESTAMP: "[UNIX_TIMESTAMP]"
+
+

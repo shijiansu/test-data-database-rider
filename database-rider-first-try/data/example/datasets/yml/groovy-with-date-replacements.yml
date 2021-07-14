@@ -1,0 +1,5 @@
+TWEET:
+  - ID: "1"
+    CONTENT: "dbunit rules!"
+    DATE: "groovy:new Date()" #<1>
+    USER_ID: 1

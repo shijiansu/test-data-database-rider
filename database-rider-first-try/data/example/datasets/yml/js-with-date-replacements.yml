@@ -1,0 +1,5 @@
+TWEET:
+  - ID: "1"
+    CONTENT: "dbunit rules!"
+    DATE: "js:var d = new Date(); var datestring = d.getFullYear()  + '-' + (d.getMonth()+1) + '-' + d.getDate() + ' ' + d.getHours() + ':' + d.getMinutes() + ':' + d.getSeconds();datestring.toString()"
+    USER_ID: 1
